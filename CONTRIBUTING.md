@@ -1,26 +1,3 @@
-# college-website
-This is source code of frontend of my college website made using HTML, CSS, Javascript
-
-<div align="center">
-<h1> College Website </h1>
-
-<br/>
-
-</div>
-
-
-
-
-- Anyone can add any type of valid html-css web page depends on you.
-
-- Do not just re-edit the file or make some small changes this kind of PRs will not be accepted.
-
-- Do not add anyone else's work in this repository. It will leads to failure of your pull request.
-
-
-
-
-
 ##  `Steps To Generate PR(Pull Request)`
 
 - (Star ⭐ & Fork 🍽️) this repository.
@@ -95,29 +72,3 @@ All contributors who have followed the rules to contribute get successfully merg
 Have some patience to get successfully merged PR. Keep Patience!!!
 
 We're happy to merge valid pull requests to this repository !
-
-
-
-
-
-
-
-
-
-
-
-
-## + Follow Me : } Quick Approval of Pull Request
-
-```py
-'''
-To get approval of the pull request much quicker (`Follow Me`)🚀
-'''
-```
-<a align="center" href="https://github.com/NahushSingh"><kbd><img src="https://avatars3.githubusercontent.com/NahushSingh?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Kunwar Nahush Singh</b></sub></a><br />
-
-`For doubts contact kunwar.19229@knit.ac.in`
-### Happy coding fellas!!💕✨
-
-
-
